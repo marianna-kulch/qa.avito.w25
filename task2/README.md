@@ -35,7 +35,7 @@ cd ./qa.avito.w25/task2
 
 Выполните команду для установки необходимых библиотек:
 ```bash
-pip install requests pytest
+pip install -r requirements.txt
 ```
 
 ### 5. Запустите автотесты:
